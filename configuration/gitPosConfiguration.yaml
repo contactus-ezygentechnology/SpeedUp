@@ -1,6 +1,6 @@
-#URI: "https://ShabiBaig@bitbucket.org/posmachineteam/ezygentechnology-pos.git"
-#destinationDirectoryPath: "C:\\SpeedUP\\SpeedUP\\ShabiPOS2"
+#URI: "https://username@bitbucket.org/posmachineteam/ezygentechnology-pos.git"
+#destinationDirectoryPath: "C:\\SpeedUP\\SpeedUP\\customer"
 
-URI: "C:\\SpeedUP\\SpeedUP\\ShabiPOS"
+URI: "C:\\SpeedUP\\SpeedUP\\customer"
 destinationDirectoryPath: "C:\\SpeedUP\\SpeedUP\\Test"
 

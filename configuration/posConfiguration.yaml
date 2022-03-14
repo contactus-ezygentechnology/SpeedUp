@@ -1,7 +1,4 @@
 
 
-AdminTask: ShabiTask
-adminTask: shabiTask
-customerId: vendorId
-Device: Phone
-admin: shabi
+OldWord: NewWord
+OldWord1: NewWord1
