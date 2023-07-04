@@ -26,6 +26,6 @@ Step 8. Go to into "C:\speedUP-main\speedUP-main" / Linux Users Go to into "/hom
 
 
 
-Follow the above steps to generate a copy of code with new values from git and the same thing can be done in order to generate code from the local machine also after modifying the file - "C:\speedUP-main\speedUP-main\configuration\inputType.yaml" . Change  "gitFlag: yes" to "gitFlag: no" and add your local code path in "posConfiguration.yaml" instead of Git repo link.
+Follow the above steps to generate a copy of code with new values from git and the same thing can be done in order to generate code from the local machine also after modifying the file - "C:\speedUP-main\speedUP-main\configuration\inputType.yaml" / "/home/speedUP-main/speedUP-main/configuration/inputType.yaml" . Change  "gitFlag: yes" to "gitFlag: no" and add your local code path in "outPutLocation.yaml" instead of Git repo link.
 
 Happy learning....!
