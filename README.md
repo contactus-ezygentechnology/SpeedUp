@@ -12,9 +12,9 @@ Step 1. Download speedUP from "https://github.com/contactus-ezygentechnology/Spe
 
 Step 2. Unzip speedUP-main.
 
-Step 3. Copy "speedUP-main" in your C drive .
+Step 3. Copy "speedUP-main" in your C drive/Linux Users will copy "speedUP-main" in "/home/" .
 
-Step 4. Go to into "C:\speedUP-main\configuration".
+Step 4. Go to into "C:\speedUP-main\configuration"/Linux Go to into "/home/speedUP-main/configuration" .
 
 Step 5. Enter your git credentials in "gitCredentials.yaml".
 
@@ -22,7 +22,7 @@ Step 6. Add your SOURCE and DESTINATION link in "outPutLocation.yaml".
 
 Step 7. Add the key values in "replaceStringNames.yaml" (on the Left side will be Old Values and on Right side will be New Values, separated by a colon: ). Kindly note- this will rename your files, file references and directory according to your input.
 
-Step 8. Go to into "C:\speedUP-main\speedUP-main", double click on SpeedUP.jar and  <b> wait for a few seconds. </b> The new directory will get generated according to destinationDirectoryPath which exists in "gitCredentials.yaml"
+Step 8. Go to into "C:\speedUP-main\speedUP-main"/Linux User Go to into "/home/speedUP-main", open cmd prompt then run java -jar SpeedUP.jar/java -jar SpeedUp-Linux.jar  <b> wait for a few seconds. </b> The new directory will get generated according to destinationDirectoryPath which exists in "gitCredentials.yaml"
 
 
 
